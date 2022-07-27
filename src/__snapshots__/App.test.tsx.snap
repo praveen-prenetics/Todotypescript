@@ -1,0 +1,206 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing for App page should render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <form>
+          <div
+            class="top"
+          >
+            <div>
+              <p
+                class="proname"
+              >
+                Todos
+              </p>
+            </div>
+          </div>
+          <div
+            class="container"
+          >
+            <div
+              class="content"
+            >
+              <div
+                class="topic"
+              >
+                <p
+                  id="title"
+                >
+                  <strong>
+                    Sign in
+                  </strong>
+                </p>
+                <div
+                  id="main"
+                >
+                  <input
+                    class="uname"
+                    id="username"
+                    placeholder="Username"
+                    type="email"
+                    value=""
+                  />
+                  <input
+                    class="pwd"
+                    id="password"
+                    placeholder="Password"
+                    type="password"
+                    value=""
+                  />
+                  <div>
+                    <button
+                      id="button"
+                    >
+                      <b>
+                        Sign in
+                      </b>
+                    </button>
+                  </div>
+                  <div
+                    class="direct"
+                  >
+                    <a
+                      class=""
+                      href="/register"
+                    >
+                      New here? Register now
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <form>
+        <div
+          class="top"
+        >
+          <div>
+            <p
+              class="proname"
+            >
+              Todos
+            </p>
+          </div>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="content"
+          >
+            <div
+              class="topic"
+            >
+              <p
+                id="title"
+              >
+                <strong>
+                  Sign in
+                </strong>
+              </p>
+              <div
+                id="main"
+              >
+                <input
+                  class="uname"
+                  id="username"
+                  placeholder="Username"
+                  type="email"
+                  value=""
+                />
+                <input
+                  class="pwd"
+                  id="password"
+                  placeholder="Password"
+                  type="password"
+                  value=""
+                />
+                <div>
+                  <button
+                    id="button"
+                  >
+                    <b>
+                      Sign in
+                    </b>
+                  </button>
+                </div>
+                <div
+                  class="direct"
+                >
+                  <a
+                    class=""
+                    href="/register"
+                  >
+                    New here? Register now
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
